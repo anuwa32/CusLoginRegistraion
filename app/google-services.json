@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920760811142",
+    "project_id": "customerloginregistration",
+    "storage_bucket": "customerloginregistration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920760811142:android:c88e616d0c97c995199b07",
+        "android_client_info": {
+          "package_name": "com.example.customerloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920760811142-1ladsum36qmto5gp320luvob52t00ri2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAttwqSoYXRSuzjhSHCoMHWJKb1VLra52M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920760811142-1ladsum36qmto5gp320luvob52t00ri2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
